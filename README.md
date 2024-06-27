@@ -1,17 +1,34 @@
+---
 
-<h1 align="center">Hi 👋, I'm Zxsko</h1>
-<h3 align="center">Hi, I'm a developer fivem, hope you will enjoy my work ! If you want to make me some feedback juste contact me on discord by my profile</h3>
-- 🔭 I’m currently working on zBaseV2
+# Bienvenue sur mon GitHub ! 👋
+[![Github Views](https://visitcount.itsvg.in/api?id=ItsZxsko&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in) ![GitHub Followers](https://img.shields.io/github/followers/ItsZxsko?style=social)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/@0xKazuyaxZisko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1336 discord" height="30" width="40" /></a>
-<a href="https://discord.gg/senestyrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cKGUpZCAKP" height="30" width="40" /></a>
-</p>
+## 🚀 Présentation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+Salut ! Je suis Ruwin 🎉, un passionné de développement de bots Discord 🤖. Sur ce profil, vous trouverez divers projets et exemples de bots Discord que j'ai créés et partagés. Mon objectif est de fournir des ressources utiles pour les développeurs Discord et de contribuer à la communauté.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nowze&show_icons=true&theme=merko&title_color=ee00ff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="nowze" /></p>
+![Discord](https://img.icons8.com/clouds/500/discord-logo.png)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nowze&theme=dark" alt="zisko" /></p>
+## 📊 Statistiques GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ruwin-dsc&show_icons=true&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwin-dsc&layout=compact&theme=radical)
+
+## 🛠️ Compétences
+
+- **Langages**: JavaScript, Python, HTML, CSS, PHP, SQL
+- **Frameworks**: Node.js
+- **Outils**: Git, Docker, Visual Studio Code
+
+## 📫 Me Contacter
+
+- **Discord**: ruwinou
+- **Email**: ruwin2007yt@gmail.com
+
+## 🌐 Liens Utiles
+
+- **Serveur Discord**: [discord.gg/ruwinou](https://discord.gg/3vrARysMt5)
+
+Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour toute question ou collaboration. 🚀
+
+---
