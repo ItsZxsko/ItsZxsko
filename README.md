@@ -2,7 +2,7 @@
 
 ## 🚀 Présentation
 
-Hello, je suis quelq'un de tranquille, je parle l'anglais et le français. Je suis développeur en deux Langages (ce sont mes principaux) le LUA et le Javascript, a bientôt 👋🏻 !  
+Just an developer chill and relax quoi.
 
 ## 📊 Statistiques
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ItsZxsko&show_icons=true&theme=radical)
@@ -16,11 +16,11 @@ Hello, je suis quelq'un de tranquille, je parle l'anglais et le français. Je su
 
 ## 📫 Me Contacter
 
-- **Discord**: ezikoto
+- **Discord**: logs2logs
 
 ## 🌐 Liens Utiles
 
-- **Serveur Discord**: [discord.gg/flashbluerp](https://discord.gg/flashbluerp)
+- **Serveur Discord**: https://discord.gg/gtasantos
 
 - [![Github Views](https://visitcount.itsvg.in/api?id=ItsZxsko&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in) 
 - ![GitHub Followers](https://img.shields.io/github/followers/ItsZxsko?style=social)
